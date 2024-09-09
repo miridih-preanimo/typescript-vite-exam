@@ -1,0 +1,17 @@
+{
+  "name": "typescript-vite-exam",
+  "scripts": {
+    "test": "vitest run --passWithNoTests"
+  },
+  "private": true,
+  "devDependencies": {
+    "eslint": "^9.9.1",
+    "@eslint/js": "^9.9.1",
+    "@types/eslint__js": "^8.42.3",
+    "typescript-eslint": "^8.4.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.3",
+    "vitest": "^2.0.5",
+    "@stylistic/eslint-plugin": "^2.7.2"
+  }
+}
